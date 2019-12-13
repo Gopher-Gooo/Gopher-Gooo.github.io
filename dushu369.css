@@ -1,0 +1,179 @@
+* {
+    margin: 0;
+    padding: 0; 
+}
+.top{
+    background-color: blue;
+    width: 800px;
+    height: 150px;
+    margin: 0 auto;
+}
+.top a{
+    display: block;
+    width: 160px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    cursor: pointer;
+    float: left;
+}
+
+.top1 {
+    background-color: gainsboro;
+    width: 800px;
+    height: 30px;
+    margin: 0 auto;
+    line-height: 30px;
+}
+
+.top1left{
+    float: left;
+}
+
+.top1left a:hover{
+    color: red;
+}
+
+.top1right{
+    float: right;
+}
+
+.top1right a{
+    color: red;
+}
+
+.top2 {
+    width: 800px;
+    margin: 0 auto;
+    background-color:green;
+}
+
+.top2_middle {
+    background-color: #fff;
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.top2_middle img {
+    height: 20px;
+    width: 20px;
+    background-color: red;
+}
+
+.readrank {
+    width: 800px;
+    height: 45px;
+    background-color: pink;
+    margin: 0 auto;
+}
+
+.readrank-left {
+    float: left;
+    height: 45px;
+    line-height: 45px;
+}
+
+
+.readrank-right {
+    float: right;
+    width: 300px;
+    line-height: 45px;
+}
+
+.readrank-left-space {
+    margin: 0;
+    padding: 0;
+    width: 5px;
+    height: 40px;
+    background-color: blue;
+    display: block;
+    float: left;
+    margin-top: 2px;
+    margin-left: 10px;
+}
+
+.readrank-left-read {
+    /* margin-top: -20px; */
+    background-color: blue;
+    margin-left: 5px;
+    line-height: 40px;
+    display: inline-block;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+}
+
+.readrank-book-list {
+    width: 800px;
+    height: 700px;
+    margin: 0 auto;
+    background-color:white;
+}
+
+li {
+    list-style: none;
+}
+
+div ul li {
+    height: 35px;
+    line-height: 35px;
+    padding-left: 20px;
+}
+
+body {
+    background-color: #eeeeee;
+}
+
+.readrank-book-list ul li a{
+    /* height: 35px; */
+    cursor: pointer;
+    width: 100px;
+    color: black;
+    text-decoration: none;
+}
+
+
+.readrank-book-list ul li a:hover{
+    color: tomato;
+}
+
+.bottom{
+    background-color: blue;
+    width: 800px;
+    height: 100px;
+    margin: 0 auto;
+}
+.bottom a{
+    display: block;
+    width: 160px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    cursor: pointer;
+    float: left;
+}
+
+.bottom1 {
+    background-color: #fff;
+    width: 800px;
+    height: 60px;
+    margin: 0 auto;
+    line-height: 50px;
+    text-align: center;
+}
+
+.bottom1 a{
+    text-decoration: none;
+    color: black;
+}
+
+.bottom1 a:hover{
+    color: tomato;
+}
+
+
+
+
